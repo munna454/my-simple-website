@@ -1,0 +1,19 @@
+h2{
+    color: brown;
+    background-color: burlywood;
+}
+p{
+    color: darkblue;
+    background-color: aquamarine;
+}
+h3{
+    color: tomato;
+    background-color: bisque;
+}
+ul{
+    color: red;
+    background-color: rgb(164, 195, 253);
+}
+img{
+    width: 300px; height: 200px;
+}
